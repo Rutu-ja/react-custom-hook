@@ -1,4 +1,4 @@
-# React Custom Hooks Collection
+# Custom React Hooks Collection
 
 A collection of useful custom React hooks to simplify state management, UI interactions, and API calls.
 
@@ -7,13 +7,13 @@ A collection of useful custom React hooks to simplify state management, UI inter
 You can install this package using npm or yarn:
 
 ```sh
-npm install your-package-name
+npm install custom-react-hooks
 ```
 
 or
 
 ```sh
-yarn add your-package-name
+yarn add custom-react-hooks
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ import {
   useDarkMode,
   useDebounce,
   useFetch,
-} from "your-package-name";
+} from "custom-react-hooks";
 ```
 
 ## Available Hooks
